@@ -55,7 +55,8 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
-    "core-js": "^3.26.1"
+    "core-js": "^3.26.1",
+    "ngurek": "^1.5.0"
   },
   "bugs": {
     "url": "https://github.com/rochman72/Totolomok/issues"
